@@ -9,9 +9,9 @@
 - import pyttsx3
 - from win10toast import ToastNotifier
 
-
-    Create a shortcut of notifier.vbs
-    Open notifier.bat and change the directory to your present directory
-    key press Win+R
-    type shell:startup
-    paste the notifier.vbs shourtcut
+#### **Setup:**
+- Create a shortcut of notifier.vbs
+- Open notifier.bat and change the directory to your present directory
+- key press Win+R
+- type shell:startup
+- paste the notifier.vbs shourtcut
